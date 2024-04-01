@@ -6,6 +6,7 @@ export default function Home() {
         <li> vercel env {process.env.VERCEL_ENV}  </li>
         <li> env var {process.env.ENV_VAR} </li>
         <li> New Feature </li>
+        <li>test</li>
       </ul>
     </main>
   );
